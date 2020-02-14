@@ -18,6 +18,10 @@ work and manipulate it as required.It forms a matrix of image into more understa
 
 The video capture and image capture are the functions of Open cv.
 
+You can also put text on what you will detect by using puttext function of open cv.What this function basically does is it 
+puts text of specified fonts and size when the condition of specified detection gets fulfilled.For example if you want to  detects any blue coloured object of specified contour area it finds the centre of that drawn contour and puts text on it as "center".
+
+
 Here I'm using Pycharm 2020 version as interpretor while the code gets compiled in python 3.6.Just follow the pycharm 
 installation steps.
 
