@@ -1,4 +1,5 @@
-# super-duper-waddle
+# Basics of image processing
+
 Image processing
 Computer Vision is a new field for exploring the era of AI and ML.
 
